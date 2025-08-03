@@ -40,7 +40,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/multi-step-form.git
+git clone https://github.com/MANSI622/MultiStep-Form.git
 cd multi-step-form
 
 Install dependencies:
